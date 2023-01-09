@@ -1,7 +1,7 @@
 # KAMORI KAREN
 # 10/01/2023
 
-# Registration and login program
+# Registration and login python program
 # information is stored in and retrieved from a csv file 
 import os
 import re
